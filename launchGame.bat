@@ -4,5 +4,5 @@
 cd C:
 python ovrdelete.py
 
-:: Path to Roblox executable
+:: Path to game executable
 start "" "C:"
